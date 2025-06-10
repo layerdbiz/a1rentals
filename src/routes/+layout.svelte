@@ -11,14 +11,14 @@
         { label: 'About Us', href: '/about' },
         { label: 'Planning Guide', href: '/planning' },
         { label: 'Products', href: '/products' },
-        { label: 'Contact Us', href: '/contact' }
+        { label: 'Contact Us', href: '/contact-us' }
     ];
 </script>
 
 
 <main id="container" class="bg-white flex flex-col">
     <Header class="flex flex-col">
-        <img src="images/header-bg.png" alt="A1 Rentals Beaumont Texas" />
+        <img src="/images/header-bg.png" alt="A1 Rentals Beaumont Texas" />
         <Nav class="relative z-10 w-full flex items-center justify-center gap-3 -translate-y-[47px] " {links} />
     </Header>
 

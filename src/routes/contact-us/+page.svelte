@@ -1,7 +1,7 @@
 
 			<div id="content">
-				<img alt="" src="images/cakeTopper.jpg" style="float:right; margin-right:0;" />
-				<h1><span>Contact Us</span><img alt="" src="images/ContactUs.jpg" style="margin:10px 0 0 -3px;" /></h1>
+				<img alt="" src="/images/cakeTopper.jpg" style="float:right; margin-right:0;" />
+				<h1><span>Contact Us</span><img alt="" src="/images/ContactUs.jpg" style="margin:10px 0 0 -3px;" /></h1>
 				<p><strong>A-1 Rentals of Beaumont, Inc.</strong><br />
 					Wedding and Party Equipment Rental<br />
 					565 South 11th Street<br />

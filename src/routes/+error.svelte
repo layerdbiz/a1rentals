@@ -11,7 +11,7 @@
         </h1>
         
         <div class="error-message">
-            <p>The <strong>{page.url.pathname}</strong> doesn't exist.</p>
+            <p>The <strong>{page.url.pathname}</strong> page doesn't exist.</p>
             <p>It may have been moved, deleted, or you entered the wrong URL.</p>
         </div>
     </div>

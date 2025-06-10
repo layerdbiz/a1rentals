@@ -5,6 +5,6 @@
 					<br />
 					<strong>A-1 Rentals of Beaumont</strong>!
 				</p>
-				<p>Click <a href="images/A1-PlanningGuide.pdf">here</a> to download a copy of our <strong>Wedding and Reception Planning Guide</strong>.</p>
+				<p>Click <a href="/guides/A1-PlanningGuide.pdf">here</a> to download a copy of our <strong>Wedding and Reception Planning Guide</strong>.</p>
 
 			</div>
